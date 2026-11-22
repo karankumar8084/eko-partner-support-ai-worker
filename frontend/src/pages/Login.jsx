@@ -19,7 +19,7 @@ function Login({ onLogin, loading = false, error = "" }) {
     <div className="login-page">
       <div className="login-card">
         <div className="login-brand">
-          <div className="brand-icon">E</div>
+          
           <div>
             <h2>Eko</h2>
             <span>Partner Support Portal</span>
